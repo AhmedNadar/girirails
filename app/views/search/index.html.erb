@@ -3,8 +3,8 @@
 <div>
     <ol>
         <% @rails.css('a.title').each do |link| %>
-            <li><%=link_to link.content, link["href"] %></li>
-        <% end%>
-    </ol>    
+            <li><%= link_to link.content, link['href'] %></li>
+        <% end %>
+    </ol> 
 </div>
 
