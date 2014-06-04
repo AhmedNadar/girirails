@@ -9,6 +9,17 @@
   5. Create `custom.css.scss` under `app/assets/stylesheets/`
   6. Add `@import "bootstrap";` to `custom.css.scss`
 
+= to get glyphicons works:
+In config/application.rb, add the following after class Application < Rails::Application. It should look like this:
+
+class Application < Rails::Application
+    config.assets.paths << "#{Rails}/vendor/assets/fonts"
+    
+    In the terminal, compile your assets by running:
+
+rake assets:precompile RAILS_ENV=development
+
+
 4. Three principal features of the asset pipeline:
 
   1. Asset directories
