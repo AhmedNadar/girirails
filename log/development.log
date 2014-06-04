@@ -1458,3 +1458,114 @@ Started GET "/assets/application.js?body=1" for 127.2.201.1 at 2014-06-04 01:15:
 
 
 Started GET "/assets/jquery.js?body=1" for 127.2.201.1 at 2014-06-04 01:15:29 -0400
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 01:30:01 -0400
+Processing by SearchController#index as HTML
+  Rendered search/index.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 15429ms (Views: 14316.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.2.201.1 at 2014-06-04 01:30:20 -0400
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 01:33:18 -0400
+Processing by SearchController#index as HTML
+  Rendered search/index.html.erb within layouts/application (170.2ms)
+Completed 200 OK in 12311ms (Views: 11872.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:31 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:31 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:31 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.2.201.1 at 2014-06-04 01:33:31 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:31 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:31 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:31 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:31 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:31 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:32 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:32 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:32 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:32 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:32 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:32 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:32 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:32 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.2.201.1 at 2014-06-04 01:33:32 -0400

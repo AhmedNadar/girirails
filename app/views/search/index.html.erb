@@ -1,10 +1,11 @@
 <h1>Giri with Rails</h1>
 
 <div>
-    <ol>
-        <% @rails.css('a.title').each do |link| %>
-            <li><%= link_to link.content, link['href'] %></li>
-        <% end %>
-    </ol> 
-</div>
 
+<ol class="list-group">
+    <% @rails.css('a.title').each do |link| %>
+        <li><%= link_to link.content, link['href'], class: "list-group-item" %></li>
+    <% end %>
+</ol>
+
+</div>
