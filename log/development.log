@@ -9938,3 +9938,528 @@ Started GET "/assets/turbolinks.js?body=1" for 127.2.201.1 at 2014-06-04 16:55:4
 
 
 Started GET "/assets/application.js?body=1" for 127.2.201.1 at 2014-06-04 16:55:45 -0400
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 20:50:20 -0400
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 21:24:41 -0400
+Processing by SearchController#index as HTML
+  Rendered search/index.html.haml within layouts/application (62.4ms)
+Completed 200 OK in 2507ms (Views: 1221.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.2.201.1 at 2014-06-04 21:24:48 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:48 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:48 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:48 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:49 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:50 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:50 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.2.201.1 at 2014-06-04 21:24:50 -0400
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular.woff" for 127.2.201.1 at 2014-06-04 21:24:50 -0400
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 21:29:51 -0400
+Processing by SearchController#index as HTML
+  Rendered search/index.html.haml within layouts/application (119.0ms)
+Completed 200 OK in 1282ms (Views: 225.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:52 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:52 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:52 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:52 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.2.201.1 at 2014-06-04 21:29:52 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:52 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular.woff" for 127.2.201.1 at 2014-06-04 21:29:53 -0400
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 21:44:50 -0400
+Processing by SearchController#index as HTML
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:11:01 -0400
+Processing by SearchController#index as HTML
+  Rendered search/index.html.haml within layouts/application (212.0ms)
+Completed 200 OK in 2623ms (Views: 1921.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.2.201.1 at 2014-06-04 23:11:08 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:08 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:08 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:08 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:08 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:08 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:08 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:08 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:09 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:09 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:09 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:09 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:09 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:09 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:09 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:09 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:09 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.2.201.1 at 2014-06-04 23:11:09 -0400
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular.woff" for 127.2.201.1 at 2014-06-04 23:11:10 -0400
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:14:25 -0400
+Processing by SearchController#index as HTML
+  Rendered search/index.html.haml within layouts/application (147.4ms)
+Completed 200 OK in 774ms (Views: 208.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:26 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:27 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:27 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:27 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:27 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.2.201.1 at 2014-06-04 23:14:27 -0400
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular.woff" for 127.2.201.1 at 2014-06-04 23:14:27 -0400
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:15:55 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 497ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.7ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (203.8ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:16:21 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 8ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.3ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.1ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (6.4ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (243.9ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:17:39 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 5ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.7ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.8ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.5ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (299.8ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:19:42 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 12ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected ']', expecting tASSOC
+...']="glyphicon glyphicon-globe"] }
+...                               ^
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.9ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (5.6ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.7ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (404.8ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:20:01 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 7ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected '}', expecting tASSOC
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.4ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.9ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (4.3ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (278.7ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:25:00 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 5ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected '}', expecting tASSOC
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.4ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.9ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (287.1ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:26:44 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 89ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.3ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (7.7ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (500.7ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:27:27 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 17ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (36.9ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (511.3ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:27:31 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 5ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (47.5ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (10.9ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.4ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (808.9ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:51:56 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 293ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected '}', expecting tASSOC
+...("glyphicon glyphicon-globe") } 
+...                               ^
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.4ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (4.2ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (14.2ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (446.5ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:53:01 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 34ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected '}', expecting tASSOC
+...["glyphicon glyphicon-globe"] } 
+...                               ^
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.2ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (7.2ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (214.2ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-04 23:53:03 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 4ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected '}', expecting tASSOC
+...["glyphicon glyphicon-globe"] } 
+...                               ^
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.2ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (71.8ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (204.4ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-05 00:02:00 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 6ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected '}', expecting tASSOC
+...["glyphicon glyphicon-globe"] } 
+...                               ^
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.3ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.2ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (314.1ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-05 00:12:01 -0400
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-05 00:23:29 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 271ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected '}', expecting tASSOC
+...]="glyphicon glyphicon-globe" } 
+...                               ^
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.3ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.3ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.4ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (398.5ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-05 00:25:08 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 86ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected '}', expecting tASSOC
+...('glyphicon glyphicon-globe') } 
+...                               ^
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.3ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (6.0ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.6ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (405.7ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-05 00:32:08 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 4ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected '}', expecting tASSOC
+...('glyphicon glyphicon-globe') } 
+...                               ^
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.3ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+  Rendered /usr/libexec/openshift/cartridges/c9-0.1/root/lib/ruby/gems/gems/actionpack-4.0.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (199.1ms)
+
+
+Started GET "/" for 127.2.201.1 at 2014-06-05 00:53:47 -0400
+Processing by SearchController#index as HTML
+Completed 500 Internal Server Error in 6ms
+
+SyntaxError (/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:14: syntax error, unexpected '}', expecting tASSOC
+...('glyphicon glyphicon-globe') } 
+...                               ^
+/var/lib/stickshift/538a3b5a500446507500045a/app-root/data/878424/app/models/reddit_scraper.rb:22: syntax error, unexpected $end, expecting keyword_end):
+  app/controllers/search_controller.rb:3:in `index'
+
+

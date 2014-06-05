@@ -56,3 +56,4 @@ end
 ```
 
 13. Generate migration for password digest column: `$ rails generate migration add_password_digest_to_users password_digest:string`
+14. refactore model. http://stackoverflow.com/questions/24047382/how-to-add-html-element-to-the-view-from-rails-controller
