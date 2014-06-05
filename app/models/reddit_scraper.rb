@@ -11,11 +11,11 @@ class RedditScraper
     doc = Nokogiri::HTML(open("http://www.reddit.com/r/rails/"))
     doc.css('a.title').each do |link|
       if link['href'].include?('http')
-        @headline << { content: link.content, href: link['href']}
+        @headline << { content: link.content, href: link['href'] } 
+        # @headline << { content: link.content, href: link['href'], link.add_class('glyphicon glyphicon-globe') } 
       else
         @headline << { content: link.content, href: "http://reddit.com" + link['href'] }
-      end
-
+      end6
     end
     @headline
   end
