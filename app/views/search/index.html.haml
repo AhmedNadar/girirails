@@ -1,10 +1,10 @@
-
-%h1 Giri with Rails
-%p
-  Read top Current headlines about #{link_to "Rails on Reddit", 'http://www.reddit.com/r/rails/'}
-%ul.list-group
-  - @link.each do |url|
-    = link_to url[:href], target: '_', class: "list-group-item" do
-      %span.glyphicon.glyphicon-link
-      #{url[:content]}
-
+%div.row
+  %div.col-md-6.col-md-offset-3
+    %h1 Giri with Rails
+    %p
+      Read top Current headlines about #{link_to "Rails on Reddit", 'http://www.reddit.com/r/rails/'}
+    %ul.list-group
+      - @link.each do |url|
+        = link_to url[:href], target: '_', class: "list-group-item" do
+          %span.glyphicon.glyphicon-link
+          #{url[:content]}
